@@ -10,4 +10,4 @@ Guide:
 3. Remaining Habitat https://code.earthengine.google.com/cca4c6c4a3258e1359ba238e4526717c
 4. Sample for Mann Whitney https://code.earthengine.google.com/76b25f1f05df4e5fb367245c488003ca
 
-- Small Visualisations are also available on Selecting species.ipynb
+- Some visualisations are also available on Selecting species.ipynb
